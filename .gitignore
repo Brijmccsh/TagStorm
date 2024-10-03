@@ -1,0 +1,17 @@
+# Ignore node_modules if you're using Node.js
+node_modules/
+
+# Ignore logs
+logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+*.o
+*.out
+
+# Ignore environment files
+.env
